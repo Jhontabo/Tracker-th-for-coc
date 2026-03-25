@@ -1,0 +1,32 @@
+{
+  "th_max_levels": {
+    "18": { "heroes": { "Barbarian King": 110, "Archer Queen": 110, "Grand Warden": 85, "Royal Champion": 60 }, "pets": { "L.A.S.S.I": 25, "Electro Owl": 25, "Spirit Fox": 25 }, "equipment": { "Giant Gauntlet": 30, "Frozen Arrow": 30, "Eternal Tome": 21 }, "troops": { "Root Rider": 5, "Electro Titan": 5, "Barbarian": 13 }, "spells": { "Rage Spell": 8, "Overgrowth Spell": 5 } },
+    "17": { "heroes": { "Barbarian King": 100, "Archer Queen": 100, "Grand Warden": 75, "Royal Champion": 50 }, "pets": { "L.A.S.S.I": 20, "Electro Owl": 20, "Spirit Fox": 20 }, "equipment": { "Giant Gauntlet": 27, "Frozen Arrow": 27, "Eternal Tome": 18 }, "troops": { "Root Rider": 4, "Electro Titan": 4, "Barbarian": 12 }, "spells": { "Rage Spell": 7, "Overgrowth Spell": 4 } },
+    "16": { "heroes": { "Barbarian King": 95, "Archer Queen": 95, "Grand Warden": 70, "Royal Champion": 45 }, "pets": { "L.A.S.S.I": 15, "Electro Owl": 15, "Spirit Fox": 10 }, "equipment": { "Giant Gauntlet": 27, "Eternal Tome": 18 }, "troops": { "Root Rider": 3, "Electro Titan": 3, "Barbarian": 11 }, "spells": { "Rage Spell": 6 } },
+    "15": { "heroes": { "Barbarian King": 90, "Archer Queen": 90, "Grand Warden": 65, "Royal Champion": 40 }, "pets": { "L.A.S.S.I": 10, "Electro Owl": 10, "Unicorn": 10 }, "equipment": { "Giant Gauntlet": 21, "Eternal Tome": 15 }, "troops": { "Electro Titan": 2, "Barbarian": 10 }, "spells": { "Rage Spell": 6 } },
+    "14": { "heroes": { "Barbarian King": 80, "Archer Queen": 80, "Grand Warden": 55, "Royal Champion": 30 }, "pets": { "L.A.S.S.I": 10, "Electro Owl": 10, "Mighty Yak": 10, "Unicorn": 10 }, "equipment": { "Eternal Tome": 12 }, "troops": { "Dragon Rider": 2, "Barbarian": 10 }, "spells": { "Rage Spell": 6 } },
+    "13": { "heroes": { "Barbarian King": 75, "Archer Queen": 75, "Grand Warden": 50, "Royal Champion": 25 }, "equipment": { "Eternal Tome": 12 }, "troops": { "Yeti": 3, "Barbarian": 9 }, "spells": { "Rage Spell": 6 } },
+    "12": { "heroes": { "Barbarian King": 65, "Archer Queen": 65, "Grand Warden": 40 }, "troops": { "Electro Dragon": 3, "Barbarian": 8 }, "spells": { "Rage Spell": 5 } },
+    "11": { "heroes": { "Barbarian King": 50, "Archer Queen": 50, "Grand Warden": 20 }, "troops": { "Electro Dragon": 2, "Barbarian": 7 }, "spells": { "Rage Spell": 5 } },
+    "10": { "heroes": { "Barbarian King": 40, "Archer Queen": 40 }, "troops": { "Barbarian": 7 }, "spells": { "Rage Spell": 5 } },
+    "9": { "heroes": { "Barbarian King": 30, "Archer Queen": 30 }, "troops": { "Barbarian": 6 }, "spells": { "Rage Spell": 4 } },
+    "8": { "heroes": { "Barbarian King": 10 }, "equipment": { "Rage Vial": 6 }, "troops": { "Barbarian": 5 }, "spells": { "Rage Spell": 3 } },
+    "7": { "heroes": { "Barbarian King": 5 }, "troops": { "Barbarian": 4 }, "spells": { "Rage Spell": 2 } },
+    "6": { "troops": { "Barbarian": 3 }, "spells": { "Healing Spell": 3 } },
+    "5": { "troops": { "Barbarian": 3 }, "spells": { "Lightning Spell": 4 } },
+    "4": { "troops": { "Barbarian": 2 } },
+    "3": { "troops": { "Barbarian": 2 } },
+    "2": { "troops": { "Barbarian": 2 } }
+  },
+  "bh_max_levels": {
+    "10": { "heroes": { "Battle Machine": 35, "Battle Copter": 35 }, "troops": { "Raged Barbarian": 20, "Baby Dragon": 20 } },
+    "9": { "heroes": { "Battle Machine": 30, "Battle Copter": 30 }, "troops": { "Raged Barbarian": 18, "Baby Dragon": 18 } },
+    "8": { "heroes": { "Battle Machine": 25, "Battle Copter": 25 }, "troops": { "Raged Barbarian": 16, "Baby Dragon": 16 } },
+    "7": { "heroes": { "Battle Machine": 20 }, "troops": { "Raged Barbarian": 14, "Baby Dragon": 14 } },
+    "6": { "heroes": { "Battle Machine": 15 }, "troops": { "Raged Barbarian": 12, "Baby Dragon": 12 } },
+    "5": { "heroes": { "Battle Machine": 10 }, "troops": { "Raged Barbarian": 10, "Baby Dragon": 10 } },
+    "4": { "heroes": { "Battle Machine": 5 }, "troops": { "Raged Barbarian": 8 } },
+    "3": { "troops": { "Raged Barbarian": 6 } },
+    "2": { "troops": { "Raged Barbarian": 4 } }
+  }
+}

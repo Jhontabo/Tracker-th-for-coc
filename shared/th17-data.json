@@ -1,0 +1,41 @@
+{
+  "heroes": {
+    "Barbarian King": { "maxLevel": 100 },
+    "Archer Queen": { "maxLevel": 100 },
+    "Grand Warden": { "maxLevel": 75 },
+    "Royal Champion": { "maxLevel": 50 }
+  },
+  "pets": {
+    "L.A.S.S.I": { "maxLevel": 20 },
+    "Electro Owl": { "maxLevel": 20 },
+    "Mighty Yak": { "maxLevel": 20 },
+    "Unicorn": { "maxLevel": 20 },
+    "Frosty": { "maxLevel": 20 },
+    "Diggy": { "maxLevel": 20 },
+    "Poison Lizard": { "maxLevel": 20 },
+    "Phoenix": { "maxLevel": 20 },
+    "Spirit Fox": { "maxLevel": 20 },
+    "Angry Jelly": { "maxLevel": 20 }
+  },
+  "equipment": {
+    "Giant Gauntlet": { "maxLevel": 27 },
+    "Frozen Arrow": { "maxLevel": 27 },
+    "Fireball": { "maxLevel": 27 },
+    "Spiky Ball": { "maxLevel": 27 },
+    "Magic Mirror": { "maxLevel": 27 },
+    "Eternal Tome": { "maxLevel": 18 },
+    "Invisibility Vial": { "maxLevel": 18 },
+    "Rage Vial": { "maxLevel": 18 },
+    "Haste Vial": { "maxLevel": 18 },
+    "Hog Rider Puppet": { "maxLevel": 18 },
+    "Healing Tome": { "maxLevel": 18 }
+  },
+  "troops": {
+    "Root Rider": { "maxLevel": 4 },
+    "Electro Titan": { "maxLevel": 4 },
+    "Electro Dragon": { "maxLevel": 7 },
+    "Yeti": { "maxLevel": 6 },
+    "Dragon Rider": { "maxLevel": 4 },
+    "Balloon": { "maxLevel": 11 }
+  }
+}
